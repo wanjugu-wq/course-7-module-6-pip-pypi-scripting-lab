@@ -1,6 +1,5 @@
 from datetime import datetime
 import requests
-import os
 
 def generate_log(data):
 
